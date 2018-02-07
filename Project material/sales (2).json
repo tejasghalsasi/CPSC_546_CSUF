@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'devdb'
+
+// devdb.sales
+
+[{"Category":"Electronics","Items_Sold":"2"}, {"Category":"Furniture","Items_Sold":"6"}, {"Category":"Healthcare","Items_Sold":"1"}]

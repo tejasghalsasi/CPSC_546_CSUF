@@ -1,0 +1,9 @@
+ITEMID	INVENTORYID	ITEMNAME	DESCRIPTION	ITEMGROUP	QUANTITY	LOCATION	UNITEOFMEASURE	COSTPERUNIT	STATUS	CREATEDDATE	EXPIRATIONDATE	IMAGE	COMPANY	UNITOFMEASURE	CREATEDBY	LASTUPDATEDBY	INITIAL_QUANTITY
+5	5	Medicine CIuY80	Flu Medicine	medicines	500	Oklahoma		10	In Stock	01-01-2017	10-11-2020		Eare	numberOfItems	rsparway4	wsurpliss0	5
+1	7	Beats By Dr.Dre Headset	"Features the iconic Beats sound with Dual-Mode Adaptive Noise Canceling, plus the added benefit of wireless listening.Pair and Play with your Bluetooth device with 30ft range."	electronic accessories	100	California		300	In Stock	01-01-2017	10-11-2020		Gigazoom	numberOfItems	sellick1	zalberts3	50
+2	1	Samsung UHD TV	"QLED TV.Samsungs Innovation TV. Discover perfect color the Samsung QLED TV, enjoy a billion more colors HD."	electronics	200	California		500	In Stock	01-01-2017	10-11-2020		Amazon	numberOfItems	wsurpliss0	bparsonson7	10
+3	3	Apple Laptop Macbook Pro	Educational Laptop by Apple Inc.	education	500	Texas		50	In Stock	01-01-2017	10-11-2020		Wikivu	numberOfItems	zalberts3	dmetrick6	20
+4	2	Men Suits	Men Suits	clothing	150	Washington		50	In Stock	01-01-2017	10-11-2020		Tommy Hilfiger	numberOfItems	gmellenby2	wsurpliss0	10
+5	4	Daily Grocery	Grocery package for daily use	grocery	100	Michigan		20	In Stock	01-01-2017	10-11-2020		Quamba	numberOfItems	sellick1	zalberts3	5
+5	6	Netflix videos	All 2017 videos by Netflix	media	300	Nevada		60	In Stock	01-01-2017	10-11-2020		Photofeed	numberOfItems	bparsonson7	dmetrick6	10
+5	5	Medicine CIuY80	Flu Medicine	medicines	500	Oklahoma		10	In Stock	01-01-2017	10-11-2020		Eare	numberOfItems	rsparway4	wsurpliss0	5

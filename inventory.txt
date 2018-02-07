@@ -1,0 +1,8 @@
+INVENTORYID	INVENTORYNAME	NUMBEROFITEMS	LOCATION	CREATEDBY	LASTUPDATEDBY	COMPANY	COUNTRY
+1	electronics	94	California	wsurpliss0	bparsonson7	Amazon	United States
+2	clothing	91	Washington	gmellenby2	wsurpliss0	Tommy Hilfiger	UK
+3	education	9	Texas	zalberts3	dmetrick6	Wikivu	India
+4	grocery	94	Michigan	sellick1	zalberts3	Quamba	Unites States
+5	medicines	91	Oklahoma	rsparway4	gmellenby2	Eare	Mexico
+6	media	10	Nevada	bparsonson7	dmetrick6	Photofeed	Canada
+7	accessories	94	California	sellick1	zalberts3	Gigazoom	Germany
